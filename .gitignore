@@ -1,0 +1,3 @@
+frontend/todo-app/node_modules/.cache/*
+restful-web-services/target/*
+restful-web-services/.*
