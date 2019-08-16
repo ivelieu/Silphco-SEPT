@@ -1,6 +1,8 @@
 package com.sept.rest.webservices.restfulwebservices.mentoring;
 
-import java.util.Date;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 
 
 @Entity
